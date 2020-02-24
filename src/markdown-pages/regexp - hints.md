@@ -1,5 +1,5 @@
 ---
-title: "RegExp tips and tricks""
+title: "RegExp tips and tricks"
 date: "2020-02-23"
 ---
 
