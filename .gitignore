@@ -1,3 +1,6 @@
+#IDE
+.idea/
+
 # Logs
 logs
 *.log
@@ -67,3 +70,13 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+.idea/.gitignore
+.idea/checkstyle-idea.xml
+.idea/codeStyles/
+.idea/dbnavigator.xml
+.idea/gatsby-blog.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+stale_outputs_checked
