@@ -1,3 +1,8 @@
+---
+title: "Docker - tips and tricks"
+date: "2020-02-27"
+---
+
 ## Terms
 * *Docker* is a platform that packages an application and all its dependencies together in the form of containers.
 * *Dockerfile* is a text document that contains all the commands that a user can call on the command line to assemble an image.

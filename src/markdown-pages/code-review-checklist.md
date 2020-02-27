@@ -1,3 +1,8 @@
+---
+title: "CODE REVIEW CHECKLIST"
+date: "2020-02-26"
+---
+
 # CODE REVIEW CHECKLIST
 *The main purpose of code reviews is to improve your codebase, improve your team's development skills, share knowledge, communicate, and —finally— write good code.*
 
