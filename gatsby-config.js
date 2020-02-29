@@ -21,6 +21,7 @@ module.exports = {
       },
     },
     "gatsby-transformer-remark",
+    'gatsby-styled-components',
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
